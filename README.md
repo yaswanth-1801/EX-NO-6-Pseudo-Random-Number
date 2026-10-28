@@ -13,5 +13,7 @@ End the program.
 # PROGRAM:
 
 # OUTPUT:
+<img width="1105" height="605" alt="image" src="https://github.com/user-attachments/assets/36722885-868b-4e19-96da-34cb9610a5a2" />
 
 # RESULT:
+Thus, The above Pseudo Random Number Generation Program is executed successfully.
