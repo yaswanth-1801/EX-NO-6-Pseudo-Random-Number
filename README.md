@@ -11,6 +11,25 @@ Pass the value for number of iterations and print the numbers.
 End the program.
 
 # PROGRAM:
+```
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+                        
+int main()
+{
+    int i;
+
+    srand(time(0));
+
+    printf("Pseudo-Random Numbers:\n");
+
+    for (i = 0; i < 5; i++)
+        printf("%d\n", rand() % 100);
+
+    return 0;
+}
+```
 
 # OUTPUT:
 <img width="1105" height="605" alt="image" src="https://github.com/user-attachments/assets/36722885-868b-4e19-96da-34cb9610a5a2" />
